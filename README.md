@@ -16,4 +16,4 @@ No intenten abrir o correr el react "blog_pos_frontend", salio un bug y no pude 
 ---
 No soy muy bueno en React, sé que el cargo requiere React lo cual puede ser un impedimento, pero por al menos lo intente. 
 
-Good night
+Good night 
