@@ -7,7 +7,7 @@ pip install requirements.txt
 
 Abrir localhost:8000 de django
 
-crear APIs de en aorden de arriba hacia abajo.
+Abrir APIs en orden de arriba hacia abajo.
 
 
 --------------------------------------------------
